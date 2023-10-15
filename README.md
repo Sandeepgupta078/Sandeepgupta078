@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepgupta078&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepgupta078" /> </p>
 
-- 🌱 I’m currently learning **ReactJs , DSA,**
+- 🌱 I’m currently learning **ReactJs , DSA**
 
 - 📫 How to reach me **sandeepmgs078@gmail.com**
 
