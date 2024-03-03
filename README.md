@@ -1,4 +1,4 @@
-![image](https://github.com/Sandeepgupta078/Sandeepgupta078/assets/103142653/6c37aa96-0079-4282-aeea-dae105ccc0c8)
+
 
 <!--
 **Sandeepgupta078/Sandeepgupta078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,7 +54,10 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
- 
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
+    <img src="![image](https://github.com/Sandeepgupta078/Sandeepgupta078/assets/103142653/a2b895d5-61ed-4d83-b531-154ff955ad34)
+" alt="mysql" width="40" height="40"/> 
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
