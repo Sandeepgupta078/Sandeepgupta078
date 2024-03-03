@@ -55,8 +55,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
   <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/Sandeepgupta078/Sandeepgupta078/assets/103142653/a2b895d5-61ed-4d83-b531-154ff955ad34)
-" alt="mysql" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=all" alt="github" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
