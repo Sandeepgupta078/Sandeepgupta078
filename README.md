@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>  -->
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,java,tailwind,git,github,nextjs" alt="tech stack" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepgupta078&show_icons=true&locale=en&layout=compact" alt="sandeepgupta078" /></p>
