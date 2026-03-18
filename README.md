@@ -10,7 +10,6 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **Full Stack Projects**
-- 🌱 Learning **Next.js & Data Structures**
 - 💬 Ask me about **MERN Stack, APIs, System Design**
 - 📫 Reach me at: **sandeepmgs078@gmail.com**
 - ⚡ Fun fact: I love building scalable apps 🚀
@@ -78,13 +77,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sandeepgupta078&theme=onestar&no-frame=true&margin-w=10"/>
 </p>
 
----
+--- -->
 
 ## 🔥 Contribution Graph
 
@@ -94,13 +93,13 @@
 
 ---
 
-## 👀 Profile Views
+<!-- ## 👀 Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sandeepgupta078&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
----
+--- -->
 
 ## 💡 Quote
 
