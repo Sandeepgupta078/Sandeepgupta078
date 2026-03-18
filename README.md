@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | MERN | Next.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Expert;Next.js+Learner;DSA+Explorer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Expert;Backend+Developer&center=true&width=500&height=45">
 </p>
 
 ---
