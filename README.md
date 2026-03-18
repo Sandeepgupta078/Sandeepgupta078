@@ -1,43 +1,109 @@
-
-
-<!--
-**Sandeepgupta078/Sandeepgupta078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Gupta</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | Next.js Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepgupta078&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepgupta078" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Expert;Next.js+Learner;DSA+Explorer&center=true&width=500&height=45">
+</p>
 
-- 🌱 I’m currently learning **NextJs and DSA**
+---
 
-- 📫 How to reach me **sandeepmgs078@gmail.com**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 Currently working on **Full Stack Projects**
+- 🌱 Learning **Next.js & Data Structures**
+- 💬 Ask me about **MERN Stack, APIs, System Design**
+- 📫 Reach me at: **sandeepmgs078@gmail.com**
+- ⚡ Fun fact: I love building scalable apps 🚀
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/sandeepgupta078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepgupta078" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandeep-kumar-gupta-075s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumargupta" height="30" width="40" /></a>
-<a href="https://instagram.com/sandeepgupta0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeepgupta0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandeep-kumar-gupta-075s" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://instagram.com/" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+<a href="https://twitter.com/" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,java,tailwind,git,github,nextjs,discord,mysql,npm,py,vscode" alt="tech stack" />
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepgupta078&show_icons=true&locale=en&layout=compact" alt="sandeepgupta078" /></p>
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepgupta078&show_icons=true&locale=en" alt="sandeepgupta078" /></p>
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepgupta078&" alt="sandeepgupta078" /></p>
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeepgupta078&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeepgupta078&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepgupta078&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sandeepgupta078&theme=onestar&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeepgupta078&theme=tokyo-night" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sandeepgupta078&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+---
+
+## 💡 Quote
+
+> “Code. Learn. Build. Repeat.” 🚀
+
+---
