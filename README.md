@@ -6,6 +6,28 @@
 </p>
 
 ---
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://sandeep7.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sandeepg75" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://instagram.com/sandeepgupta0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -41,7 +63,7 @@
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,javascript,react,nextjs,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -51,7 +73,7 @@
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🛠️ Tools
